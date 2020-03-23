@@ -1,0 +1,520 @@
+<background>
+
+	<starttime>
+		<year>2020</year>
+		<month>3</month>
+		<day>23</day>
+		<hour>0</hour>
+		<minute>0</minute>
+		<second>0</second>
+	</starttime>
+
+<!-- 00:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0000.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0000.jpg</from>
+		<to>/usr/share/backgrounds/earth/0030.jpg</to>    
+	</transition>
+
+<!-- 00:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0030.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0030.jpg</from>
+		<to>/usr/share/backgrounds/earth/0100.jpg</to>    
+	</transition>
+
+<!-- 01:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0100.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0100.jpg</from>
+		<to>/usr/share/backgrounds/earth/0130.jpg</to>    
+	</transition>
+
+<!-- 01:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0130.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0130.jpg</from>
+		<to>/usr/share/backgrounds/earth/0200.jpg</to>    
+	</transition>
+
+<!-- 02:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0200.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0200.jpg</from>
+		<to>/usr/share/backgrounds/earth/0230.jpg</to>    
+	</transition>
+
+<!-- 02:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0230.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0230.jpg</from>
+		<to>/usr/share/backgrounds/earth/0300.jpg</to>    
+	</transition>
+
+<!-- 03:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0300.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0300.jpg</from>
+		<to>/usr/share/backgrounds/earth/0330.jpg</to>    
+	</transition>
+
+<!-- 03:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0330.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0330.jpg</from>
+		<to>/usr/share/backgrounds/earth/0400.jpg</to>    
+	</transition>
+
+<!-- 04:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0400.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0400.jpg</from>
+		<to>/usr/share/backgrounds/earth/0430.jpg</to>    
+	</transition>
+
+<!-- 04:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0430.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0430.jpg</from>
+		<to>/usr/share/backgrounds/earth/0500.jpg</to>    
+	</transition>
+
+<!-- 05:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0500.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0500.jpg</from>
+		<to>/usr/share/backgrounds/earth/0530.jpg</to>    
+	</transition>
+
+<!-- 05:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0530.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0530.jpg</from>
+		<to>/usr/share/backgrounds/earth/0600.jpg</to>    
+	</transition>
+
+<!-- 06:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0600.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0600.jpg</from>
+		<to>/usr/share/backgrounds/earth/0630.jpg</to>    
+	</transition>
+
+<!-- 06:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0630.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0630.jpg</from>
+		<to>/usr/share/backgrounds/earth/0700.jpg</to>    
+	</transition>
+
+<!-- 07:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0700.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0700.jpg</from>
+		<to>/usr/share/backgrounds/earth/0730.jpg</to>    
+	</transition>
+
+<!-- 07:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0730.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0730.jpg</from>
+		<to>/usr/share/backgrounds/earth/0800.jpg</to>    
+	</transition>
+
+<!-- 08:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0800.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0800.jpg</from>
+		<to>/usr/share/backgrounds/earth/0830.jpg</to>    
+	</transition>
+
+<!-- 08:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0830.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0830.jpg</from>
+		<to>/usr/share/backgrounds/earth/0900.jpg</to>    
+	</transition>
+
+<!-- 09:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0900.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0900.jpg</from>
+		<to>/usr/share/backgrounds/earth/0930.jpg</to>    
+	</transition>
+
+<!-- 09:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/0930.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/0930.jpg</from>
+		<to>/usr/share/backgrounds/earth/1000.jpg</to>    
+	</transition>
+
+<!-- 10:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1000.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1000.jpg</from>
+		<to>/usr/share/backgrounds/earth/1030.jpg</to>    
+	</transition>
+
+<!-- 10:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1030.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1030.jpg</from>
+		<to>/usr/share/backgrounds/earth/1100.jpg</to>    
+	</transition>
+
+<!-- 11:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1100.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1100.jpg</from>
+		<to>/usr/share/backgrounds/earth/1130.jpg</to>    
+	</transition>
+
+<!-- 11:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1130.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1130.jpg</from>
+		<to>/usr/share/backgrounds/earth/1200.jpg</to>    
+	</transition>
+
+<!-- 12:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1200.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1200.jpg</from>
+		<to>/usr/share/backgrounds/earth/1230.jpg</to>    
+	</transition>
+
+<!-- 12:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1230.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1230.jpg</from>
+		<to>/usr/share/backgrounds/earth/1300.jpg</to>    
+	</transition>
+
+<!-- 13:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1300.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1300.jpg</from>
+		<to>/usr/share/backgrounds/earth/1330.jpg</to>    
+	</transition>
+
+<!-- 13:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1330.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1330.jpg</from>
+		<to>/usr/share/backgrounds/earth/1400.jpg</to>    
+	</transition>
+
+<!-- 14:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1400.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1400.jpg</from>
+		<to>/usr/share/backgrounds/earth/1430.jpg</to>    
+	</transition>
+
+<!-- 15:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1530.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1530.jpg</from>
+		<to>/usr/share/backgrounds/earth/1600.jpg</to>    
+	</transition>
+
+<!-- 16:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1630.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1630.jpg</from>
+		<to>/usr/share/backgrounds/earth/1700.jpg</to>    
+	</transition>
+
+<!-- 16:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1630.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1630.jpg</from>
+		<to>/usr/share/backgrounds/earth/1700.jpg</to>    
+	</transition>
+
+<!-- 17:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1700.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1700.jpg</from>
+		<to>/usr/share/backgrounds/earth/1730.jpg</to>    
+	</transition>
+
+<!-- 17:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1730.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1730.jpg</from>
+		<to>/usr/share/backgrounds/earth/1795.jpg</to>    
+	</transition>
+
+<!-- 18:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1795.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1795.jpg</from>
+		<to>/usr/share/backgrounds/earth/1830.jpg</to>    
+	</transition>
+
+<!-- 18:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1830.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1830.jpg</from>
+		<to>/usr/share/backgrounds/earth/1900.jpg</to>    
+	</transition>
+
+<!-- 19:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1900.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1900.jpg</from>
+		<to>/usr/share/backgrounds/earth/1930.jpg</to>    
+	</transition>
+
+<!-- 19:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/1930.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/1930.jpg</from>
+		<to>/usr/share/backgrounds/earth/2000.jpg</to>    
+	</transition>
+
+<!-- 20:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/2000.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/2000.jpg</from>
+		<to>/usr/share/backgrounds/earth/2030.jpg</to>    
+	</transition>
+
+<!-- 20:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/2030.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/2030.jpg</from>
+		<to>/usr/share/backgrounds/earth/2100.jpg</to>    
+	</transition>
+
+<!-- 21:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/2100.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/2100.jpg</from>
+		<to>/usr/share/backgrounds/earth/2130.jpg</to>    
+	</transition>
+
+<!-- 21:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/2130.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/2130.jpg</from>
+		<to>/usr/share/backgrounds/earth/2200.jpg</to>    
+	</transition>
+
+
+<!-- 22:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/2200.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/2200.jpg</from>
+		<to>/usr/share/backgrounds/earth/2230.jpg</to>    
+	</transition>
+
+
+<!-- 22:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/2230.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/2230.jpg</from>
+		<to>/usr/share/backgrounds/earth/2300.jpg</to>    
+	</transition>
+
+<!-- 23:00 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/2300.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/2300.jpg</from>
+		<to>/usr/share/backgrounds/earth/2330.jpg</to>    
+	</transition>
+
+<!-- 23:30 -->
+	<static>
+		<duration>1795</duration>
+		<file>/usr/share/backgrounds/earth/2330.jpg</file>
+	</static>
+	<transition type="overlay">
+		<duration>5</duration>
+		<from>/usr/share/backgrounds/earth/2330.jpg</from>
+		<to>/usr/share/backgrounds/earth/0000.jpg</to>    
+	</transition>
+
+</background>
